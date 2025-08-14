@@ -49,14 +49,14 @@ This project is built with a focus on simplicity and performance, using only web
   <strong>Light Mode</strong>
 </p>
 <p align="center">
-  <img src="./assets/screenshot-desktop-light.png" alt="Desktop Light Mode" width="48%">
+  <img src="./assets/dark.png" alt="Desktop Light Mode" width="48%">
 </p>
 
 <p align="center">
   <strong>Dark Mode</strong>
 </p>
 <p align="center">
-  <img src="./assets/screenshot-desktop-dark.png" alt="Desktop Dark Mode" width="48%">
+  <img src="./assets/light.png" alt="Desktop Dark Mode" width="48%">
 </p>
 
 ---
